@@ -15,7 +15,7 @@
     "@nomiclabs/hardhat-waffle": "^2.0.0",
     "@typechain/ethers-v5": "^10.0.0",
     "@typechain/hardhat": "^6.0.0",
-    "@types/chai": "^4.2.21",
+    "@types/chai": "^5.0.0",
     "@types/figlet": "^1.5.4",
     "@types/mocha": "^10.0.0",
     "@types/node": "^24.0.0",
